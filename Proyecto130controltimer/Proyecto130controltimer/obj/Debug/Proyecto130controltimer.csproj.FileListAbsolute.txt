@@ -1,0 +1,10 @@
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto130controltimer\Proyecto130controltimer\bin\Debug\Proyecto130controltimer.exe.config
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto130controltimer\Proyecto130controltimer\bin\Debug\Proyecto130controltimer.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto130controltimer\Proyecto130controltimer\bin\Debug\Proyecto130controltimer.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto130controltimer\Proyecto130controltimer\obj\Debug\Proyecto130controltimer.csprojAssemblyReference.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto130controltimer\Proyecto130controltimer\obj\Debug\Proyecto130controltimer.Form1.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto130controltimer\Proyecto130controltimer\obj\Debug\Proyecto130controltimer.Properties.Resources.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto130controltimer\Proyecto130controltimer\obj\Debug\Proyecto130controltimer.csproj.GenerateResource.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto130controltimer\Proyecto130controltimer\obj\Debug\Proyecto130controltimer.csproj.CoreCompileInputs.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto130controltimer\Proyecto130controltimer\obj\Debug\Proyecto130controltimer.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto130controltimer\Proyecto130controltimer\obj\Debug\Proyecto130controltimer.pdb
